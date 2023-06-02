@@ -1,0 +1,15 @@
+C:\Users\Administrator\source\repos\IntelTraining\EcommerceConsoleApp\EcommerceConsoleApp\bin\Debug\net7.0\EcommerceConsoleApp.exe
+C:\Users\Administrator\source\repos\IntelTraining\EcommerceConsoleApp\EcommerceConsoleApp\bin\Debug\net7.0\EcommerceConsoleApp.deps.json
+C:\Users\Administrator\source\repos\IntelTraining\EcommerceConsoleApp\EcommerceConsoleApp\bin\Debug\net7.0\EcommerceConsoleApp.runtimeconfig.json
+C:\Users\Administrator\source\repos\IntelTraining\EcommerceConsoleApp\EcommerceConsoleApp\bin\Debug\net7.0\EcommerceConsoleApp.dll
+C:\Users\Administrator\source\repos\IntelTraining\EcommerceConsoleApp\EcommerceConsoleApp\bin\Debug\net7.0\EcommerceConsoleApp.pdb
+C:\Users\Administrator\source\repos\IntelTraining\EcommerceConsoleApp\EcommerceConsoleApp\obj\Debug\net7.0\EcommerceConsoleApp.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\IntelTraining\EcommerceConsoleApp\EcommerceConsoleApp\obj\Debug\net7.0\EcommerceConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\IntelTraining\EcommerceConsoleApp\EcommerceConsoleApp\obj\Debug\net7.0\EcommerceConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\IntelTraining\EcommerceConsoleApp\EcommerceConsoleApp\obj\Debug\net7.0\EcommerceConsoleApp.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\IntelTraining\EcommerceConsoleApp\EcommerceConsoleApp\obj\Debug\net7.0\EcommerceConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\IntelTraining\EcommerceConsoleApp\EcommerceConsoleApp\obj\Debug\net7.0\EcommerceConsoleApp.dll
+C:\Users\Administrator\source\repos\IntelTraining\EcommerceConsoleApp\EcommerceConsoleApp\obj\Debug\net7.0\refint\EcommerceConsoleApp.dll
+C:\Users\Administrator\source\repos\IntelTraining\EcommerceConsoleApp\EcommerceConsoleApp\obj\Debug\net7.0\EcommerceConsoleApp.pdb
+C:\Users\Administrator\source\repos\IntelTraining\EcommerceConsoleApp\EcommerceConsoleApp\obj\Debug\net7.0\EcommerceConsoleApp.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\IntelTraining\EcommerceConsoleApp\EcommerceConsoleApp\obj\Debug\net7.0\ref\EcommerceConsoleApp.dll

@@ -1,0 +1,96 @@
+# Write your query or mutation here
+query($categoryId:Long!) { 
+	category(categoryId: $categoryId)   {
+	    categoryName
+	  }
+}
+{
+  "categoryId": 1
+}
+==== 
+
+# Write your query or mutation here
+query($productId:Long!) {
+  
+	product(productId: $productId)  {
+        name,
+    	sKU
+    }
+}
+
+{
+  "productId": 1
+}
+===
+
+mutation($category:CategoryInput!){
+  insertCategory(category:$category){
+    categoryName
+  }
+}  
+
+{
+  "category": {
+    "categoryName": "Car",
+    "createdDate": "2023-05-05",
+    "lastUpdatedDate": "2023-05-05",
+    "createdBy": "Eaven",
+    "lastUpdatedBy": "Eaven"
+  }
+}
+
+=====
+
+mutation($categoryId:Long!, $categoryName:String!){
+  updateCategory(categoryId:$categoryId, categoryName:$categoryName){
+    categoryName  //this is the field name in the table
+  }
+}  
+
+{
+  "categoryId": 5,
+	"categoryName": "Cars"
+}
+
+===
+mutation($categoryId:Long!){
+  deleteCategory(categoryId:$categoryId)
+}
+
+{
+  "categoryId": 3
+}
+===
+
+mutation($product:ProductInput!,$catalogId:Long!){
+  insertProduct(product:$product,catalogId:$catalogId){
+    name
+  }
+}
+
+{
+  "product": {
+    "name": "Juicer",
+    "sKU": "A293469",
+    "productDescription": {
+      "summary": "Mixer Juicer",
+      "cost": 56789,
+      "dOP": "2023-11-05",
+      "dOE": "2027-11-05"
+    }    
+  },
+  "catalogId": 8
+}
+===
+mutation($productId:Long!, $productCost:Long!){
+  updateProduct(productId:$productId, cost:$productCost ){
+    productId,
+    name
+    cost
+  }
+}  
+
+{
+  "productId": 7,
+	"productCost": 70000
+}
